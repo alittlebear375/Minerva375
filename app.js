@@ -12,7 +12,7 @@ const music = new Music(client, {
   prefix: '.',
   youtubeKey: 'AIzaSyDi-BK9t1eev-c1m_sbtwEivsXr51K7OiA',
   disableLoop: true,
-  botOwber: '419728831947997186',
+  botOwner: '419728831947997186',
   maxQueueSize: '200',
   helpCMD: 'help',
   enableQueueStat: true
