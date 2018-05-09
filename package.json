@@ -1,0 +1,26 @@
+{
+  "name": "minerva375",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "8.11.1",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-musicbot-addon": "^10.1.5",
+    "fs": "^0.0.2",
+    "moment": "^2.22.1",
+    "discord": "^0.8.2",
+    "express": "^4.16.3"
+  },
+  "prefix": ".",
+  "token": "NDM4ODcwMzUxNDQ3ODUxMDA5.Dc6bAw.ORey_gsAtXmsNZlMCicGO2lu6mI"
+}
